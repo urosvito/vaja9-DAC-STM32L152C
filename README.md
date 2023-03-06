@@ -11,7 +11,7 @@ ODHOVORJI NA VPRAŠANJA:
    e) Output Buffer, enable
       trigger: None.
       
-  4. e) 42 mV.
+ 4. e) 42 mV.
   
   KOMENTAR NA DELOVANJE:
   
